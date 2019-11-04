@@ -1,0 +1,4 @@
+/home/sai-pher/work/school/Embeded_systems/scratches/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sai-pher/work/school/Embeded_systems/scratches/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sai-pher/work/school/Embeded_systems/scratches/cmake-build-debug/CMakeFiles/scratches.dir
+/home/sai-pher/work/school/Embeded_systems/scratches/cmake-build-debug/CMakeFiles/scf_2.dir

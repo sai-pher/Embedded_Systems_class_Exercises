@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/static_variables.dir/static_variables.c.o  -o static_variables 

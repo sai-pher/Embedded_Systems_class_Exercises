@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/scf_2.dir/scf_2.c.o  -o scf_2 

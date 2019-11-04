@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sai-pher/work/school/Embeded_systems/labs/lab_5/fxnprot.h
+stdio.h
+-
+stdlib.h
+-
+masks.h
+/home/sai-pher/work/school/Embeded_systems/labs/lab_5/masks.h
+
+/home/sai-pher/work/school/Embeded_systems/labs/lab_5/masks.h
+
+/home/sai-pher/work/school/Embeded_systems/labs/lab_5/section_b.c
+fxnprot.h
+/home/sai-pher/work/school/Embeded_systems/labs/lab_5/fxnprot.h
+

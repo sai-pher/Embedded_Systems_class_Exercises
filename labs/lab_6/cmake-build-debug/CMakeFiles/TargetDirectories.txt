@@ -1,0 +1,3 @@
+/home/sai-pher/work/school/Embeded_systems/labs/lab_6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sai-pher/work/school/Embeded_systems/labs/lab_6/cmake-build-debug/CMakeFiles/lab_6.dir
+/home/sai-pher/work/school/Embeded_systems/labs/lab_6/cmake-build-debug/CMakeFiles/edit_cache.dir
